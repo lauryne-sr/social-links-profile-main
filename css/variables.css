@@ -1,0 +1,7 @@
+:root {
+    --background-main: hsl(0, 0%, 8%);
+    --card-background: hsl(0, 0%, 12%);
+    --button-color: hsl(0, 0%, 20%);
+    --text-color: hsl(0, 0%, 100%);
+    --country-hover-color: hsl(75, 94%, 57%);
+}
